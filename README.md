@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Samoel Ferreira
+# 👨🏽‍💻 Samoel Ferreira
 
 **`Desenvolvedor Web`**
 
