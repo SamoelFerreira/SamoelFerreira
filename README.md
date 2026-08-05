@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Wellington S. Ferreira, tenho 37 anos e sou natural de Ourinhos interior de São Paulo. Atualmente, cursando na "DevMedia" para ser um "Desenvolvedor FullStack". Amo tecnologia e apaixonado por games ARpgs.
+Me chamo Wellington S. Ferreira, tenho 37 anos e sou natural de Ourinhos interior de São Paulo.
 
 <p align="left">
     <!-- <a href="#">
