@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Wellington S. Ferreira, tenho 37 anos e sou natural de Ourinhos interior de São Paulo.
+S.ferreira
 
 <p align="left">
     <!-- <a href="#">
