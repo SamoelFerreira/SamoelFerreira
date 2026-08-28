@@ -70,19 +70,6 @@ Me chamo Wellington S. Ferreira, tenho 37 anos e sou natural de Ourinhos interio
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img
-    align="left" 
-    alt="AngularJs" 
-    title="AngularJs"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-/>
-<img
-align="left"
-alt="COBOL"
-title="COBOL"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" 
 />
           
           
